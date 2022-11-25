@@ -4,4 +4,3 @@
 [![GitHub - Matheus Tecchio](https://img.shields.io/badge/GitHub-Matheus_Tecchio-3A3A59?style=for-the-badge&logo=GitHub)](https://github.com/matheustecchio)
 
 [![Gmail - matheusdiastecchio@gmail.com](https://img.shields.io/badge/Gmail-matheusdiastecchio%40gmail.com-3A3A59?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:matheusdiastecchio@gmail.com)
-
