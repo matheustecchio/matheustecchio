@@ -59,7 +59,7 @@ run commands
   <tr>
     <td align="center">
       <a href="#">
-        <img src="" width="100px;" alt=""/><br>
+        <img src="https://avatars.githubusercontent.com/u/52295230?v=4" width="100px;" alt="Matheus Tecchio"/><br>
         <sub>
           <b>Matheus Tecchio</b>
         </sub>
@@ -67,17 +67,17 @@ run commands
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://s2.glbimg.com/FUcw2usZfSTL6yCCGj3L3v3SpJ8=/smart/e.glbimg.com/og/ed/f/original/2019/04/25/zuckerberg_podcast.jpg" width="100px;" alt="Mark Zuckerberg"/><br>
+        <img src="https://avatars.githubusercontent.com/u/104239089?v=4" width="100px;" alt="Richard Stallman"/><br>
         <sub>
-          <b>Mark Zuckerberg</b>
+          <b>Richard Stallman</b>
         </sub>
       </a>
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://miro.medium.com/max/360/0*1SkS3mSorArvY9kS.jpg" width="100px;" alt="Steve Jobs"/><br>
+        <img src="https://avatars.githubusercontent.com/u/1024025?v=4" width="100px;" alt="Linus Torvalds"/><br>
         <sub>
-          <b>Steve Jobs</b>
+          <b>Linus Torvalds</b>
         </sub>
       </a>
     </td>
