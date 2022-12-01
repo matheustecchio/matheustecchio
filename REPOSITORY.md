@@ -4,7 +4,7 @@ Description.
 
 > Note!
 
-## Checklist
+## ☑ Checklist
 
 Checklist objective.
 
@@ -14,14 +14,14 @@ Checklist objective.
 - [x] Task
 - [ ] Task
 
-## Requirements
+## 💻 Requirements
 
 The following requirements must be met:
 
 * Install `software`.
 * Have a minimum knowledge of `subject`.
 
-## Installation
+## 💾 Installation
 
 To install, please follow these instructions:
 
@@ -35,7 +35,7 @@ Windows:
 intallation command
 ```
 
-## How to use
+## 🖱 How to use
 
 To use this project, follow these commands:
 
@@ -43,7 +43,7 @@ To use this project, follow these commands:
 run commands
 ```
 
-## Contributing
+## 🔰 Contributing
 
 1. Fork this repository.
 2. Create a branch: git checkout -b <branch_name>.
@@ -53,7 +53,7 @@ run commands
   
 [How to create a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
-## Contributors
+## 📛 Contributors
 
 <table>
   <tr>
@@ -85,14 +85,14 @@ run commands
 </table>
 
 
-## Become a sponsor
+## 💰 Become a sponsor
 
-Do you want to contribute to this project? [Click here] (SPONSOR.md) and read how to contribute.
+Do you want to contribute to this project? [Click here](SPONSOR.md) and read how to contribute.
   
-## License
+## 📝 License
 
 Licensed under the [License](./LICENSE).
 
 Copyright © 2022 [Matheus Tecchio](https://github.com/matheustecchio).
 
-[⬆](#Project-Name)<br>
+# [🔝](#Project-Name)<br>
