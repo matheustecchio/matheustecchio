@@ -6,7 +6,7 @@ Description.
 
 ## ☑ Checklist
 
-Checklist objective.
+Checklist description.
 
 - [x] Task
 - [ ] Task
