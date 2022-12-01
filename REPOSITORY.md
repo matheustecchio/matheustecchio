@@ -91,7 +91,7 @@ Do you want to contribute to this project? [Click here] (SPONSOR.md) and read ho
   
 ## License
 
-Licensed under the  [Attribution 4.0 International](./LICENSE).
+Licensed under the [License](./LICENSE).
 
 Copyright © 2022 [Matheus Tecchio](https://github.com/matheustecchio).
 
