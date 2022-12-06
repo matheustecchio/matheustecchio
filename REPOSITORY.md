@@ -53,7 +53,7 @@ run commands
   
 [How to create a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
-## 📛 Contributors
+## 🪪 Developer
 
 <table>
   <tr>
