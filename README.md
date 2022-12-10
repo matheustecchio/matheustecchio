@@ -19,4 +19,3 @@
 
 ## GitHub Status
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/matheustecchio?cardType=github&showIcons=false&Background=3A3A59&Text=B3B0C4&Ring=71DBD4&Title=71DBD4)](https://github.com/matheustecchio)
-
