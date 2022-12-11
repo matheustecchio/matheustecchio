@@ -1,5 +1,5 @@
 # How is Matheus Tecchio
-### **I am an ambitious young Italy-Brazilian looking for opportunities to develop my career in the area of information technology, but specifically in the area of Machine Learning.**
+### **I am an ambitious young Italy-Brazilian looking for opportunities to develop my career in the area of information technology, but specifically in the area of Machine Learning and AI.**
 
 ## Languages
 ![Python](https://img.shields.io/badge/Python-2e3440?style=for-the-badge&logo=Python&logoColor=ffe873)
