@@ -1,12 +1,4 @@
-# How is Matheus Tecchio
-### **I am an ambitious young Italy-Brazilian looking for opportunities to develop my career in the area of information technology, but specifically in the area of Machine Learning and AI.**
-
-## Languages
-Python
-
-## Developer Tools and Technologies
-GIT | Linux | Jupyter Notebook| Spyder IDE | Eclipse IDE
-
+# Hi there, I'm Matheus Tecchio!
 
 ## Contact me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=LinkedIn&logoColor=%230A66C2)](https://www.linkedin.com/in/matheustecchio/)
