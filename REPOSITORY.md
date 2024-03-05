@@ -4,16 +4,6 @@ Description.
 
 > Note!
 
-## ☑ Checklist
-
-Checklist description.
-
-- [x] Task
-- [ ] Task
-- [ ] Task
-- [x] Task
-- [ ] Task
-
 ## 💻 Requirements
 
 The following requirements must be met:
