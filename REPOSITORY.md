@@ -43,12 +43,11 @@ run commands
   
 [How to create a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
 
-## 📛 Developer
-
+## 📛 Contributors
 <table>
   <tr>
     <td align="center">
-      <a href="#">
+      <a href="https://github.com/matheustecchio">
         <img src="https://avatars.githubusercontent.com/u/52295230?v=4" width="100px;" alt="Matheus Tecchio"/><br>
         <sub>
           <b>Matheus Tecchio</b>
