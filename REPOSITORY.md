@@ -50,7 +50,7 @@ run commands
       <a href="https://github.com/matheustecchio">
         <img src="https://avatars.githubusercontent.com/u/52295230?v=4" width="100px;"/><br><sub><b>Matheus Tecchio</b></sub></a></br>
           <a href="https://github.com/matheustecchio" title="Code"><sub>💻</sub></a>
-          <a href="https://github.com/matheustecchio" title="Code Review"><sub>👀</sub></a>
+          <a href="https://github.com/matheustecchio" title="Code Review"><sub>🔍</sub></a>
           <a href="https://github.com/matheustecchio" title="Documentation"><sub>📖</sub></a>
           <a href="https://github.com/matheustecchio" title="Issue report"><sub>💬</sub></a>
     </td>
