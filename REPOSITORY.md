@@ -48,15 +48,15 @@ run commands
   <tr>
     <td align="center">
       <a href="https://github.com/matheustecchio">
-        <img src="https://avatars.githubusercontent.com/u/52295230?v=4" width="100px;" alt="Matheus Tecchio"/><br>
-        <sub>
-          <b>Matheus Tecchio</b>
-        </sub>
-      </a>
+        <img src="https://avatars.githubusercontent.com/u/52295230?v=4" width="100px;"/><br><sub><b>Matheus Tecchio</b></sub></a></br>
+          <a href="https://github.com/matheustecchio" title="Code"><sub>💻</sub></a>
+          <a href="https://github.com/matheustecchio" title="Code Review"><sub>👀</sub></a>
+          <a href="https://github.com/matheustecchio" title="Documentation"><sub>📖</sub></a>
+          <a href="https://github.com/matheustecchio" title="Issue report"><sub>💬</sub></a>
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/104239089?v=4" width="100px;" alt="Richard Stallman"/><br>
+        <img src="https://avatars.githubusercontent.com/u/104239089?v=4" width="100px;"/><br>
         <sub>
           <b>Richard Stallman</b>
         </sub>
@@ -64,7 +64,7 @@ run commands
     </td>
     <td align="center">
       <a href="#">
-        <img src="https://avatars.githubusercontent.com/u/1024025?v=4" width="100px;" alt="Linus Torvalds"/><br>
+        <img src="https://avatars.githubusercontent.com/u/1024025?v=4" width="100px;"/><br>
         <sub>
           <b>Linus Torvalds</b>
         </sub>
