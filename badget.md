@@ -1,2 +1,0 @@
-- [For the Badge](https://forthebadge.com/#/search) Website
-- [Shields.io](https://shields.io/)
